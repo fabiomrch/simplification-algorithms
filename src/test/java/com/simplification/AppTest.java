@@ -1,4 +1,4 @@
-package com.fabiomrch.simplificationalgo;
+package com.simplification;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
